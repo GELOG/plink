@@ -1,6 +1,6 @@
 # PLINK
 
-[![dockeri.co](http://dockeri.co/image/GELOG/plink)](https://registry.hub.docker.com/GELOG/plink)
+[![dockeri.co](http://dockeri.co/image/gelog/plink)](https://registry.hub.docker.com/gelog/plink)
 
 [![stars](https://img.shields.io/github/stars/GELOG/plink.svg) 
 ![forks](https://img.shields.io/github/forks/GELOG/plink.svg) 

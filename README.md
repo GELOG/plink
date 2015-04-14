@@ -1,4 +1,4 @@
-# Plink
+# PLINK
 
 [![dockeri.co](http://dockeri.co/image/GELOG/plink)](https://registry.hub.docker.com/GELOG/plink)
 
@@ -32,12 +32,8 @@ PLINK (one syllable) is being developed by Shaun Purcell at the Center for Human
 
 ### Where can I find the official Plink?
 
-- Plink v1:
-  - [Project page](http://pngu.mgh.harvard.edu/~purcell/plink/)
-  - [Source code (zip file)](http://pngu.mgh.harvard.edu/~purcell/plink/download.shtml#download)
-- Plink v2:
-  - [Project page](https://www.cog-genomics.org/plink2)
-  - [Source code (Git repo)](https://github.com/chrchang/plink-ng)
+- Plink v1: [Project page](http://pngu.mgh.harvard.edu/~purcell/plink/) and  [Source code (zip file)](http://pngu.mgh.harvard.edu/~purcell/plink/download.shtml#download)
+- Plink v2: [Project page](https://www.cog-genomics.org/plink2) and [Source code (Git repo)](https://github.com/chrchang/plink-ng)
 
 ### What is the directory structure of this project?
 

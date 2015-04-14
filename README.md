@@ -57,5 +57,10 @@ Only the containers can be executed by the operating system.
 https://docs.docker.com/terms/image/
 
 ## How to use this image?
+To use data that is inside the container
 
-TODO
+```
+docker run --rm -ti gelog/plink --file /usr/local/plink/test
+```
+
+To use data that is OUTSIDE the container, you need to use a volume (-v)
